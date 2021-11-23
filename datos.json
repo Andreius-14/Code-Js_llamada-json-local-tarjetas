@@ -1,0 +1,34 @@
+
+[
+    {
+        "direccion":"img-svg/flaton/urologia.svg",
+        "nombre":"UROLOGIA",
+        "datos":[{}]
+
+    },
+    
+    {
+        "direccion":"img-svg/flaton/anestesiologia.svg",
+        "nombre":"ANESTESIOLOGIA",
+        "datos":[{}]
+
+    },
+    {
+        "direccion":"img-svg/flaton/traumatologia.svg",
+        "nombre":"TRAUMATOLOGIA",
+        "datos":[{}]
+
+    },
+    {
+        "direccion":"img-svg/flaton/emergencias.svg",
+        "nombre":"EMERGENCIAS",
+        "datos":[{}]
+
+    },
+    {
+        "direccion":"img-svg/flaton/pediatria.svg",
+        "nombre":"PEDIATRIA",
+        "datos":[{}]
+
+    }
+]
