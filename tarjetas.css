@@ -2,32 +2,54 @@
     display:flex;
     flex-wrap: wrap;
     flex-direction:row;
+    align-items: center;
 
     gap: 20px;
-    width: 100vw;
-    height: 100px;
-    background-color:black;
+    width: auto;
+    height: cal(auto+20px);
 
+    justify-content: space-evenly;
+
+    padding: 50px;
     
+overflow: hidden;
     
 }
 .card{
 
-    background-color: rgb(60, 182, 141);
-    width: 150px;
-    height: 200px;
+    background-color: #fff;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+
+    -webkit-box-shadow: 2px 2px 10px 5px #5f6366;
+    box-shadow: 2px 2px 10px 5px #66717A;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 16px;
+background: #fff;
+box-shadow:  -5px 5px 10px #cecece,
+             5px -5px 10px #f2f2f2;
+
 }
 
 /*---*/
 .nombreContenedor{
-
+    font-family: Raleway;
+    font-size: 18.5px;
+    color: #071041;
 }
 
 .svgContenedor{
-    background-color:rgb(197, 173, 173);
     width:auto;
-    height:70%;
+    height: 60%;
     text-align: center;
+    padding-bottom: 15px;
+    
 }
 .svgContenedor_img{
    width: auto;height: 100%;
