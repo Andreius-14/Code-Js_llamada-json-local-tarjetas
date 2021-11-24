@@ -1,0 +1,35 @@
+.contenedor_tarjetas_distritos{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+
+    gap: 20px;
+    width: 100vw;
+    height: 100px;
+    background-color:black;
+
+    
+    
+}
+.card{
+
+    background-color: rgb(60, 182, 141);
+    width: 150px;
+    height: 200px;
+}
+
+/*---*/
+.nombreContenedor{
+
+}
+
+.svgContenedor{
+    background-color:rgb(197, 173, 173);
+    width:auto;
+    height:70%;
+    text-align: center;
+}
+.svgContenedor_img{
+   width: auto;height: 100%;
+   
+}
